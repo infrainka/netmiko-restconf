@@ -1,0 +1,42 @@
+# ========================
+# Secrets & Credentials
+# ========================
+.env
+
+# ========================
+# Log Files
+# ========================
+*.log
+ssh_log.txt
+
+# ========================
+# Python Caches & Compiled Files
+# ========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# ========================
+# Python Virtual Environments
+# ========================
+venv/
+.venv/
+env/
+
+# ========================
+# OS Generated Files
+# ========================
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# ========================
+# IDE & Editor Folders
+# ========================
+.vscode/
+.idea/
+*.swp
